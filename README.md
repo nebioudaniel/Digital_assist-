@@ -1,11 +1,24 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# DigitalHippo - 🦛 A Modern Fullstack E-Commerce Marketplace for Digital Products
 
-Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
+Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind 🚀
 
-![Project Image](https://github.com/joschan21/digitalhippo/blob/master/public/thumbnail.jpg)
+## Landing Page 🌟
 
-## Features
+Welcome to DigitalHippo! Our landing page is designed to captivate users with stunning visuals and intuitive navigation, providing a delightful introduction to our marketplace.
 
+<img width="1680" alt="Screenshot 2024-03-02 at 10 28 34 PM" src="https://github.com/nebioudaniel/Digital_assist-/assets/124292845/a6e9f584-77af-44ab-8cf4-23c7a3267f3e">
+## Login Page 🔐
+
+Access your account seamlessly with our secure login page. Experience hassle-free authentication powered by Payload. Click [here](#link_to_login_page) to log in and explore DigitalHippo's features!
+<img width="1680" alt="Screenshot 2024-03-02 at 10 28 53 PM" src="https://github.com/nebioudaniel/Digital_assist-/assets/124292845/f00a3ec5-d36d-4e82-b4e0-8d66b8b56fff">
+
+
+## Checkout Page 💳
+
+Complete your purchase effortlessly on our checkout page. With a streamlined interface and secure payment processing, buying digital products has never been easier. Visit our checkout page
+<img width="1680" alt="Screenshot 2024-03-02 at 10 31 40 PM" src="https://github.com/nebioudaniel/Digital_assist-/assets/124292845/cc1317a9-25db-4550-8296-9d1f9fb99fc5">
+
+## Features 🎉
 - 🛠️ Complete marketplace built from scratch in Next.js 14
 - 💻 Beautiful landing page & product pages included
 - 🎨 Custom artwork included
@@ -20,7 +33,7 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 - ⌨️ 100% written in TypeScript
 - 🎁 ...much more
 
-## Getting started
+## Getting started 🚀
 
 To get started with this project, run
 
@@ -31,10 +44,6 @@ To get started with this project, run
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
-## Acknowledgements
 
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
