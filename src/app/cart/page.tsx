@@ -1,5 +1,3 @@
-'use client'
-
 import { Button } from '@/components/ui/button'
 import { PRODUCT_CATEGORIES } from '@/config'
 import { useCart } from '@/hooks/use-cart'
@@ -21,6 +19,10 @@ const Page = () => {
       onSuccess: ({ url }) => {
         if (url) router.push(url)
       },
+      onError: (error) => {
+        console.error("[CREATE_CHECKOUT_SESSION] Error:", error);
+        // Handle error here, such as showing an error message to the user
+      }
     })
 
   const productIds = items.map(({ product }) => product.id)
