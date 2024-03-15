@@ -7,7 +7,10 @@ Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind 🚀
 Welcome to DigitalHippo! Our landing page is designed to captivate users with stunning visuals and intuitive navigation, providing a delightful introduction to our marketplace
 
 
-<img width="1680" alt="Screenshot 2024-03-02 at 10 28 34 PM" src="https://github.com/nebioudaniel/Digital_assist-/assets/124292845/a6e9f584-77af-44ab-8cf4-23c7a3267f3e">
+![Screenshot 2024-03-15 at 9 03 31 PM](https://github.com/nebioudaniel/Digital_assist-/assets/124292845/4c7b4173-6f68-4021-8fc5-dcd93fd77bf3)
+
+
+
 ## Login Page 🔐
 
 Access your account seamlessly with our secure login page. Experience hassle-free authentication powered by Payload. Click [here](#link_to_login_page) to log in and explore DigitalHippo's features
